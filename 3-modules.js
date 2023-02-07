@@ -13,5 +13,5 @@ console.log(data)
 // const {jhon, peter} = require('./4-names')
 // sayHi(jhon)
 // sayHi(peter)
-require('./7-mindgrenade')
+require('./7-mindgrenade');
 // even if we dont assing it to a variable and call it, if there is a function that is execusted in the module it will run . when we invoke it 
